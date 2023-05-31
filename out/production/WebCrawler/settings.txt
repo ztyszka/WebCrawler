@@ -1,0 +1,7 @@
+url https://pl.wikipedia.org/wiki/Java 
+file C:\Users\Zuzia\Documents\output1.txt 
+filter None 
+filter_string  
+text y 
+attribute  
+attr_name 
